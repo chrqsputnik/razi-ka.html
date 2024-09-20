@@ -1,0 +1,28 @@
+.row{
+    display: flex;
+}
+.column{
+    width: 50%;
+    display: flex;
+}
+.background{
+    background-color: blueviolet;
+    opacity: 0.5;
+}
+.img{
+    width: 50%;
+}
+.header {
+        padding: 60px;
+        text-align: center;
+        background: #000000;
+        color: white;
+        font-size: 30px;
+      }
+.footer {
+        padding: 60px;
+        text-align: center;
+        background: #000000;
+        color: white;
+        font-size: 30px;
+      }
